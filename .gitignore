@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/AmanBookStore/.vs/AmanBookStore
+/AmanBookStore/AmanBookStore/bin/Debug/netcoreapp3.1
+/AmanBookStore/AmanBookStore/obj
